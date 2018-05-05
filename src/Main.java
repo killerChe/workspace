@@ -10,7 +10,7 @@ public class Main {
         result.add("hello");
         result.add("hello");
         result.add("hello");
-
+	result.add("her for git");
 //        ConcurrentMap<String,String> conMap = new ConcurrentHashMap<String, String>();
         System.out.println(result);
 
